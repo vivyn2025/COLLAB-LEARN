@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd collab-learn/frontend && npm install && npm run build",
+  "outputDirectory": "collab-learn/frontend/dist",
+  "installCommand": "echo 'Installation handled in build command'"
+}
